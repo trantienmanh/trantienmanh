@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trantienmanh
+- 👋 Hi, I’m @manhtrantien
 - 👀 I’m interested in ML, DL, and NLP
 - 🌱 I’m currently learning ML, DL, NLP and English
 - 📫 How to reach me via gmail: manhtntrann@gmail.com
